@@ -1,3 +1,5 @@
+package libraryAutomation.entities;
+
 public class Users {
     private int id;
     private String userName;
@@ -11,22 +13,19 @@ public class Users {
         this.id = id;
     }
 
-    public String getUsersName() {
+    public String getUserName() {
         return userName;
     }
 
-    public void setUsersName(String usersName) {
-        this.userName = usersName;
+    public void setUserName(String userName) {
+        this.userName = userName;
     }
 
-    public String getUsersPassword() {
+    public String getUserPassword() {
         return userPassword;
     }
 
-    public void setUsersPassword(String usersPassword) {
-        this.userPassword = usersPassword;
+    public void setUserPassword(String userPassword) {
+        this.userPassword = userPassword;
     }
-
-
-
 }

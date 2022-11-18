@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aad9026-affb-43f9-8993-09d87a9a87bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/BooksDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/business/BooksManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryAutomation/business/BooksManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/JdbsBooksDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/JdbsBooksDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/entities/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Users.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,7 +74,7 @@
       <workItem from="1668374486595" duration="629000" />
       <workItem from="1668381878281" duration="1307000" />
       <workItem from="1668461996509" duration="1256000" />
-      <workItem from="1668808957841" duration="4645000" />
+      <workItem from="1668808957841" duration="5502000" />
     </task>
     <servers />
   </component>
