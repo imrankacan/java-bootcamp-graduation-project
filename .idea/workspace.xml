@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aad9026-affb-43f9-8993-09d87a9a87bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/entities/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/business/UsersManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/core/logging/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/libraryAutomation/core/logging/Logger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Register.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/libraryAutomation/business/BooksManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-bootcamp-graduation-project/libraryAutomation/business/BooksManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/business/BooksManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryAutomation/business/BooksManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +80,9 @@
       <workItem from="1668374486595" duration="629000" />
       <workItem from="1668381878281" duration="1307000" />
       <workItem from="1668461996509" duration="1256000" />
-      <workItem from="1668808957841" duration="5502000" />
+      <workItem from="1668808957841" duration="5548000" />
+      <workItem from="1668962534263" duration="1636000" />
+      <workItem from="1668971927996" duration="2674000" />
     </task>
     <servers />
   </component>
