@@ -1,8 +1,7 @@
-import libraryAutomation.business.BooksManager;
-import libraryAutomation.core.logging.FileLogger;
-import libraryAutomation.core.logging.Logger;
-import libraryAutomation.dataAccess.JdbsBooksDao;
-import libraryAutomation.entities.Books;
+import main.java.javabootcampgraduationproject.business.BooksManager;
+import main.java.javabootcampgraduationproject.core.logging.FileLogger;
+import main.java.javabootcampgraduationproject.core.logging.Logger;
+import main.java.javabootcampgraduationproject.entities.Books;
 
 import java.util.Arrays;
 import java.util.List;
@@ -13,7 +12,7 @@ public class Main {
 
         Logger[] loggers = {new FileLogger()};
 
-        BooksManager booksManager = new BooksManager(new JdbsBooksDao(), Arrays.asList(loggers));
+        BooksManager booksManager = new BooksManager(Arrays.asList(loggers));
         booksManager.add(book);
 
     }
