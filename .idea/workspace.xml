@@ -5,30 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0aad9026-affb-43f9-8993-09d87a9a87bb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/business/BooksManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/business/UsersManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/core/logging/FileLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/core/logging/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/dataAccess/abstracts/BooksDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/dataAccess/concretes/InMemoryBooksDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/entities/Authors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/entities/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/entities/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/business/BooksManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/business/UsersManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/core/logging/FileLogger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/core/logging/Logger.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/BooksDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/BooksDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/JdbsBooksDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/entities/Books.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/entities/Users.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-bootcamp-graduation-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-bootcamp-graduation-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/libraryAutomation/dataAccess/BooksDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/libraryAutomation/LibraryAutomationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javabootcampgraduationproject/libraryAutomation/LibraryAutomationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/javabootcampgraduationproject/libraryAutomation/LibraryAutomationApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/javabootcampgraduationproject/libraryAutomation/LibraryAutomationApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -53,18 +43,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/libraryAutomation&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/libraryAutomation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="main.java.javabootcampgraduationproject.libraryAutomation" />
@@ -102,7 +96,7 @@
       <workItem from="1668980779737" duration="1344000" />
       <workItem from="1668986923877" duration="54000" />
       <workItem from="1668987453815" duration="741000" />
-      <workItem from="1668988223025" duration="1228000" />
+      <workItem from="1668988223025" duration="2299000" />
     </task>
     <servers />
   </component>

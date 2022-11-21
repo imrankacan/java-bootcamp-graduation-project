@@ -1,13 +1,12 @@
-package javabootcampgraduationproject.libraryAutomation;
+package main.java.javabootcampgraduationproject.libraryAutomation;
 
-import com.sun.deploy.si.SingleInstanceImpl;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
+@SpringBootApplication
 public class LibraryAutomationApplication {
 
 	public static void main(String[] args) {
-
-		SingleInstanceImpl.SingleInstanceServer SpringApplication = null;
 		SpringApplication.run(LibraryAutomationApplication.class, args);
 	}
 
